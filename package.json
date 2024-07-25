@@ -1,6 +1,6 @@
 {
-  "name": "@luxfi/festats",
-  "version": "1.0.1",
+  "name": "@luxwallet/festats",
+  "version": "1.8.11",
   "main": "dist/index.js",
   "scripts": {
     "dev": "rollup -c",
